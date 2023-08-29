@@ -1,0 +1,34 @@
+﻿  main.cpp
+L:\下载\项目工程文件_陈纪龙_2009\新建文件夹\MyFile.h(20,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+L:\下载\项目工程文件_陈纪龙_2009\新建文件夹\MyFile.h(31,26): warning C4244: “参数”: 从“wchar_t”转换到“_Elem”，可能丢失数据
+          with
+          [
+              _Elem=char
+          ]
+  MyFile.cpp
+L:\下载\项目工程文件_陈纪龙_2009\新建文件夹\MyFile.h(20,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+L:\下载\项目工程文件_陈纪龙_2009\新建文件夹\MyFile.h(31,26): warning C4244: “参数”: 从“wchar_t”转换到“_Elem”，可能丢失数据
+          with
+          [
+              _Elem=char
+          ]
+L:\下载\项目工程文件_陈纪龙_2009\新建文件夹\MyFile.cpp(16,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  MyHash.cpp
+L:\下载\项目工程文件_陈纪龙_2009\新建文件夹\MyHash.cpp(50,12): warning C4244: “参数”: 从“wchar_t”转换到“_Elem”，可能丢失数据
+          with
+          [
+              _Elem=char
+          ]
+  MyMenu.cpp
+L:\下载\项目工程文件_陈纪龙_2009\新建文件夹\MyFile.h(20,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+L:\下载\项目工程文件_陈纪龙_2009\新建文件夹\MyFile.h(31,26): warning C4244: “参数”: 从“wchar_t”转换到“_Elem”，可能丢失数据
+          with
+          [
+              _Elem=char
+          ]
+L:\下载\项目工程文件_陈纪龙_2009\新建文件夹\MyMenu.cpp(125,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  MySort.cpp
+L:\下载\项目工程文件_陈纪龙_2009\新建文件夹\MySort.cpp(12,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+L:\下载\项目工程文件_陈纪龙_2009\新建文件夹\MySort.cpp(13,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  Title1.vcxproj -> L:\下载\项目工程文件_陈纪龙_2009\新建文件夹\x64\Debug\Title1.exe
